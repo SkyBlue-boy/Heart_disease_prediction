@@ -4,4 +4,4 @@
  
  알고리즘 | 정형 | 분류 | 질병 | Macro f1 score
  
- Reference : https://dacon.io/competitions/official/235848/data
+ Reference : https://dacon.io/competitions/official/235848/overview/description
